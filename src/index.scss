@@ -1,0 +1,13 @@
+@import './common.scss';
+@import './icon-fonts/index.css';
+
+body {
+	.img{
+		width: 50px;
+		height: 50px;
+		transform: translate(50px, 50px);
+		animation: myfirst 5s;
+		appearance: none;
+		display: flex;
+	}
+}
